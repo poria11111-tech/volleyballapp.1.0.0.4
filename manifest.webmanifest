@@ -5,8 +5,8 @@
   "description": "اپلیکیشن PWA برای مدیریت باشگاه والیبال: بازیکنان، مربیان، پرداخت‌ها، جلسات و گزارش‌ها.",
   "dir": "rtl",
   "lang": "fa",
-  "start_url": "./?source=pwa",
-  "scope": "./",
+"start_url": "/volleyballapp.1.0.0.4/?source=pwa",
+"scope": "/volleyballapp.1.0.0.4/"
   "display": "standalone",
   "display_override": [
     "standalone"
